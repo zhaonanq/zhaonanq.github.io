@@ -6,9 +6,7 @@ author_profile: true
 redirect_from:
   - /papers
 ---
-
-## Characteristic Works
-
+## Representative Works
 The following works best describe who I am as a researcher. For a list of complete works, see [my CV](https://zhaonanq.github.io/files/CV_Zhaonan_Qu.pdf).
 
 
@@ -16,12 +14,16 @@ ___
 
 ###### _Note: \* indicates co-first authors_
 
+### 0. A Distributionally Robust Instrumental Variables Estimation Framework
+with Yongchan Kwon. Working Paper (2024).
+
+
 ### 1. [Inferring Dynamic Networks from Marginals with Iterative Proportional Fitting](https://arxiv.org/abs/2402.18697)
 with Serina Chang*, Frederic Koehler*, Jure Leskovec, and Johan Ugander. 41st International Conference on Machine Learning (ICML)  (2024).
 
 
 ### 2. [On Sinkhorn's Algorithm and Choice Modeling](https://arxiv.org/abs/2310.00260)
-with Alfred Galichon and Johan Ugander. Major Revision at Operations Research (2023).
+with Alfred Galichon and Johan Ugander. Under Revision at Operations Research (2023).
 
 
 ### 3. [Computationally Efficient Estimation of Large Probit Models](https://arxiv.org/abs/2407.09371)
