@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a postdoctoral research scientist at the Data Science Institute at Columbia University mentored by Agostino Capponi and Simon Lee.
 
 I am on the 2024-2025 job market.
 
