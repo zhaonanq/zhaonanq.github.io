@@ -35,7 +35,7 @@ with Wenzhi Gao\*, Oliver Hinder, Yinyu Ye, and Zhengyuan Zhou. _Operations Rese
 
 
 ### 6. [Semiparametric Estimation of Treatment Effects in Observational Studies with Heterogeneous Partial Interference](https://arxiv.org/abs/2107.12420)
-with Ruoxuan Xiong\*, Jizhou Liu, and Guido Imbens. Under Review (2022).
+with Ruoxuan Xiong\*, Jizhou Liu, and Guido Imbens. Under Revision at _Journal of Business and Economic Statistics_ (2024).
 
 
 ### 7. [A Unified Linear Speedup Analysis of Federated Averaging and Nesterov FedAvg](https://arxiv.org/abs/2007.05690)
