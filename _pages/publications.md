@@ -14,8 +14,12 @@ ___
 
 ###### _Note: \* indicates co-first authors_
 
-### 1. [A Distributionally Robust Instrumental Variables Estimation Framework](https://drive.google.com/file/d/1g2ffF4WMaQV9gNRU5m-gEz0FVf75O2Jw/view?usp=sharing)
+### 0. [A Distributionally Robust Instrumental Variables Estimation Framework](https://drive.google.com/file/d/1g2ffF4WMaQV9gNRU5m-gEz0FVf75O2Jw/view?usp=sharing)
 with Yongchan Kwon. _Working Paper_ (2024).
+
+
+### 1. [A Bias-Variance Trade-off Framework for Data with Non-negative Outcome Variables](https://drive.google.com/file/d/1qJS-sRlTLggwkjiYLQr0ihGnYKch6sUU/view?usp=sharing)
+with Agostino Capponi. _Working Paper_ (2024).
 
 
 ### 2. [Inferring Dynamic Networks from Marginals with Iterative Proportional Fitting](https://arxiv.org/abs/2402.18697)
