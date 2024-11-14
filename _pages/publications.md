@@ -19,7 +19,7 @@ ___
 ### 1. [Distributionally Robust Instrumental Variables Estimation](https://drive.google.com/file/d/1g2ffF4WMaQV9gNRU5m-gEz0FVf75O2Jw/view?usp=sharing)
 with Yongchan Kwon. _Working Paper_ (2024).
 
-### 2. [A Bias-Variance Trade-off Framework for Data with Non-negative Outcome Variables](https://drive.google.com/file/d/1qJS-sRlTLggwkjiYLQr0ihGnYKch6sUU/view?usp=sharing)
+### 2. [Handling Heteroskedastic and Sparse Non-negative Data: A Bias-Variance Trade-off Approach](https://drive.google.com/file/d/1qJS-sRlTLggwkjiYLQr0ihGnYKch6sUU/view?usp=sharing)
 with Agostino Capponi. _Working Paper_ (2024).
 
 ### 3. [Semiparametric Estimation of Treatment Effects in Observational Studies with Heterogeneous Partial Interference](https://arxiv.org/abs/2107.12420)
