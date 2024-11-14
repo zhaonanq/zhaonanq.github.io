@@ -22,13 +22,13 @@ with Yongchan Kwon. _Working Paper_ (2024).
 ### 2. [A Bias-Variance Trade-off Framework for Data with Non-negative Outcome Variables](https://drive.google.com/file/d/1qJS-sRlTLggwkjiYLQr0ihGnYKch6sUU/view?usp=sharing)
 with Agostino Capponi. _Working Paper_ (2024).
 
-### 4. [Semiparametric Estimation of Treatment Effects in Observational Studies with Heterogeneous Partial Interference](https://arxiv.org/abs/2107.12420)
+### 3. [Semiparametric Estimation of Treatment Effects in Observational Studies with Heterogeneous Partial Interference](https://arxiv.org/abs/2107.12420)
 with Ruoxuan Xiong\*, Jizhou Liu, and Guido Imbens. Under Revision at _Journal of Business and Economic Statistics_ (2024).
 
-### 5. [Computationally Efficient Estimation of Large Probit Models](https://arxiv.org/abs/2407.09371)
+### 4. [Computationally Efficient Estimation of Large Probit Models](https://arxiv.org/abs/2407.09371)
 with Patrick Ding, Guido Imbens, and Yinyu Ye. Under Review (2023).
 
-### 3. [Ensemble Methods for Causal Effects in Panel Data Settings](https://arxiv.org/abs/1903.10079)
+### 5. [Ensemble Methods for Causal Effects in Panel Data Settings](https://arxiv.org/abs/1903.10079)
 with Susan Athey, Mohsen Bayati, and Guido Imbens. _American Economic Association Papers and Proceedings 109_: 65-70 (2019).
 
 
