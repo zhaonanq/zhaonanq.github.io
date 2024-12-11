@@ -38,7 +38,7 @@ with Susan Athey, Mohsen Bayati, and Guido Imbens. _American Economic Associatio
 with Serina Chang\*, Frederic Koehler\*, Jure Leskovec, and Johan Ugander. _41st International Conference on Machine Learning (ICML)_  (2024).
 
 ### 7. [On Sinkhorn's Algorithm and Choice Modeling](https://drive.google.com/file/d/18pq78eIlByYdEl_ezIkA1AyF6wMpg6eg/view?usp=sharing)
-with Alfred Galichon and Johan Ugander. Under Revision at _Operations Research_ (2023).
+with Alfred Galichon and Johan Ugander. Under Revision at _Operations Research_ (2024).
 
 ### 8. [Optimal Diagonal Preconditioning](https://arxiv.org/abs/2209.00809)
 with Wenzhi Gao\*, Oliver Hinder, Yinyu Ye, and Zhengyuan Zhou. _Operations Research_ (2023).
