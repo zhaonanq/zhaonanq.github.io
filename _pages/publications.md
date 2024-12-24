@@ -20,7 +20,7 @@ ___
 with Yongchan Kwon. Under Review (2024).
 
 ### 2. [Handling Heteroskedastic and Sparse Non-negative Data: A Bias-Variance Trade-off Approach](https://drive.google.com/file/d/1qJS-sRlTLggwkjiYLQr0ihGnYKch6sUU/view?usp=sharing)
-with Agostino Capponi. _Working Paper_ (2024).
+with Agostino Capponi. Working Paper (2024).
 
 ### 3. [Semiparametric Estimation of Treatment Effects in Observational Studies with Heterogeneous Partial Interference](https://arxiv.org/abs/2107.12420)
 with Ruoxuan Xiong\*, Jizhou Liu, and Guido Imbens. Under Revision at _Journal of Business and Economic Statistics_ (2023).
