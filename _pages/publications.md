@@ -26,7 +26,7 @@ with Agostino Capponi. Working Paper (2024).
 with Ruoxuan Xiong\*, Jizhou Liu, and Guido Imbens. Under Revision at _Journal of Business and Economic Statistics_ (2023).
 
 ### 4. [Computationally Efficient Estimation of Large Probit Models](https://arxiv.org/abs/2407.09371)
-with Patrick Ding, Guido Imbens, and Yinyu Ye. Under Review (2024).
+with Patrick Ding, Guido Imbens, and Yinyu Ye. Major Revision at _Journal of Econometrics_ (2024).
 
 
 ## Operations Research, Machine Learning & AI
