@@ -23,7 +23,7 @@ with Yongchan Kwon. Under Review (2024).
 with Agostino Capponi. Working Paper (2024).
 
 ### 3. [Semiparametric Estimation of Treatment Effects in Observational Studies with Heterogeneous Partial Interference](https://arxiv.org/abs/2107.12420)
-with Ruoxuan Xiong\*, Jizhou Liu, and Guido Imbens. Under Revision at _Journal of Business and Economic Statistics_ (2023).
+with Ruoxuan Xiong\*, Jizhou Liu, and Guido Imbens. Major Revision at _Journal of Business and Economic Statistics_ (2023).
 
 ### 4. [Computationally Efficient Estimation of Large Probit Models](https://arxiv.org/abs/2407.09371)
 with Patrick Ding, Guido Imbens, and Yinyu Ye. Major Revision at _Journal of Econometrics_ (2024).
