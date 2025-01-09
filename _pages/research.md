@@ -41,7 +41,7 @@ We leverage methods in approximate Bayesian inference and non-linear optimizatio
 ### 5. [Inferring Dynamic Networks from Marginals with Iterative Proportional Fitting](https://arxiv.org/abs/2402.18697)
 with Serina Chang\*, Frederic Koehler\*, Jure Leskovec, and Johan Ugander. _41st International Conference on Machine Learning (ICML)_  (2024).
 
-We propose the ``biproportional Poisson'' model, which provides statistical foundations of a widely used message passing algorithm to infer network traffic from marginal information. 
+We propose the ``biproportional Poisson'' model, which provides statistical foundations for a widely used message passing algorithm to infer network traffic from marginal information. 
 
 ### 6. [On Sinkhorn's Algorithm and Choice Modeling](https://drive.google.com/file/d/18pq78eIlByYdEl_ezIkA1AyF6wMpg6eg/view?usp=sharing)
 with Alfred Galichon and Johan Ugander. Under Revision at _Operations Research_ (2024).
