@@ -29,7 +29,7 @@ We propose a general class of moment estimators for data with non-negative outco
 ### 3. [Semiparametric Estimation of Treatment Effects in Observational Studies with Heterogeneous Partial Interference](https://arxiv.org/abs/2107.12420)
 with Ruoxuan Xiong\*, Jizhou Liu, and Guido Imbens. Major Revision at _Journal of Business and Economic Statistics_ (2023).
 
-We propose and study augmented inverse propensity weighting (AIPW) estimators for causal effects under partial interference that accomodate heterogeneous interactions.
+We study augmented inverse propensity weighting (AIPW) estimators for causal effects under partial interference that accomodate heterogeneous interactions.
 
 ### 4. [Computationally Efficient Estimation of Large Probit Models](https://arxiv.org/abs/2407.09371)
 with Patrick Ding, Guido Imbens, and Yinyu Ye. Major Revision at _Journal of Econometrics_ (2024).
