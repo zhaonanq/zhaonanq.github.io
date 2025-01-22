@@ -9,7 +9,6 @@ redirect_from:
 ## Representative Works
 The following works best describe who I am as a researcher. For a list of complete works, see [my CV](https://zhaonanq.github.io/files/CV_Zhaonan_Qu.pdf).
 
-
 ___
 
 ###### _Note: \* indicates co-first authors_
@@ -44,7 +43,7 @@ with Serina Chang\*, Frederic Koehler\*, Jure Leskovec, and Johan Ugander. _41st
 We propose the ``biproportional Poisson'' model, which provides statistical foundations for a widely used message passing algorithm to infer network traffic from marginal information. 
 
 ### 6. [On Sinkhorn's Algorithm and Choice Modeling](https://drive.google.com/file/d/18pq78eIlByYdEl_ezIkA1AyF6wMpg6eg/view?usp=sharing)
-with Alfred Galichon and Johan Ugander. Under Revision at _Operations Research_ (2024).
+with Alfred Galichon, Wenzhi Gao, and Johan Ugander. Accepted at _Operations Research_ (2024).
 
 We connect matrix balancing and choice modeling, two topics that are almost 100 years old, and use the connections to obtain new insights on the convergence of Sinkhorn's algorithm.
 
