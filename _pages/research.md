@@ -33,7 +33,7 @@ We study augmented inverse propensity weighting (AIPW) estimators for causal eff
 ### 4. [Computationally Efficient Estimation of Large Probit Models](https://arxiv.org/abs/2407.09371)
 with Patrick Ding, Guido Imbens, and Yinyu Ye. Major Revision at _Journal of Econometrics_ (2024).
 
-We leverage methods in approximate Bayesian inference and non-linear optimization to significantly accelerate existing EM algorithms for probit models with a large dimensional reponse variable.
+We leverage methods in approximate Bayesian inference and non-linear optimization to significantly accelerate existing EM algorithms for probit models, enabling the analysis of consumer choice data with a large number of alternatives.
 
 ## Operations Research, Machine Learning & AI
 
