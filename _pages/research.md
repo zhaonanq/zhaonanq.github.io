@@ -23,7 +23,7 @@ We propose a distributionally robust version of the calssical IV estimation meth
 ### 2. [Towards Systematic and Optimal Modeling of Non-negative and Count Data](https://drive.google.com/file/d/1qJS-sRlTLggwkjiYLQr0ihGnYKch6sUU/view?usp=sharing)
 with Agostino Capponi. Working Paper (2024).
 
-Although Poisson pseudo maximum likelihood is robust for modeling data with non-negative reponse variables, we show there can be better estimators depending on sparsity and heteroskedasticity.
+Although Poisson pseudo maximum likelihood is robust for modeling data with non-negative reponse variables, there can be better estimators depending on sparsity and heteroskedasticity.
 
 ### 3. [Semiparametric Estimation of Treatment Effects in Observational Studies with Heterogeneous Partial Interference](https://arxiv.org/abs/2107.12420)
 with Ruoxuan Xiong\*, Jizhou Liu, and Guido Imbens. Major Revision at _Journal of Business and Economic Statistics_ (2023).
