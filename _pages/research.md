@@ -23,7 +23,7 @@ We propose a distributionally robust version of the calssical IV estimation meth
 ### 2. [Handling Sparse Non-negative Data in Finance](https://drive.google.com/file/d/1qJS-sRlTLggwkjiYLQr0ihGnYKch6sUU/view?usp=sharing)
 with Agostino Capponi. Working Paper (2024).
 
-Although Poisson pseudo maximum likelihood is robust for modeling data with non-negative reponse variables, there can be better estimators depending on sparsity and heteroskedasticity.
+Although Poisson pseudo maximum likelihood is robust for modeling data in finance and economics with non-negative dependent variables, there can be better estimators depending on the sparsity and heteroskedasticity. We propose a systematic framework that informs empirical researchers on such choices.
 
 ### 3. [Semiparametric Estimation of Treatment Effects in Observational Studies with Heterogeneous Partial Interference](https://arxiv.org/abs/2107.12420)
 with Ruoxuan Xiong\*, Jizhou Liu, and Guido Imbens. Major Revision at _Journal of Business and Economic Statistics_ (2023).
