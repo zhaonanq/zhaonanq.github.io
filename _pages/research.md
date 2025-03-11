@@ -20,7 +20,7 @@ with Yongchan Kwon. Under Review (2024).
 
 We propose a distributionally robust version of the calssical IV estimation method, motivated by common concerns in practice such as instrument validity.
 
-### 2. [Towards Systematic and Optimal Modeling of Non-negative and Count Data](https://drive.google.com/file/d/1qJS-sRlTLggwkjiYLQr0ihGnYKch6sUU/view?usp=sharing)
+### 2. [Handling Sparse Non-negative Data in Finance](https://drive.google.com/file/d/1qJS-sRlTLggwkjiYLQr0ihGnYKch6sUU/view?usp=sharing)
 with Agostino Capponi. Working Paper (2024).
 
 Although Poisson pseudo maximum likelihood is robust for modeling data with non-negative reponse variables, there can be better estimators depending on sparsity and heteroskedasticity.
