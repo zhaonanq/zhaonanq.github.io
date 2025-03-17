@@ -18,7 +18,7 @@ ___
 ### 1. [Distributionally Robust Instrumental Variables Estimation](https://arxiv.org/abs/2410.15634)
 with Yongchan Kwon. Under Review (2024).
 
-We propose a distributionally robust version of the calssical IV estimation method, motivated by common concerns in practice such as instrument validity.
+We propose a distributionally robust version of the calssical IV estimation method for inferring causal effects, motivated by common concerns in practice such as instrument validity.
 
 ### 2. [Handling Sparse Non-negative Data in Finance](https://drive.google.com/file/d/1qJS-sRlTLggwkjiYLQr0ihGnYKch6sUU/view?usp=sharing)
 with Agostino Capponi. Working Paper (2024).
@@ -28,7 +28,7 @@ Although Poisson pseudo maximum likelihood is robust for modeling data in financ
 ### 3. [Semiparametric Estimation of Treatment Effects in Observational Studies with Heterogeneous Partial Interference](https://arxiv.org/abs/2107.12420)
 with Ruoxuan Xiong\*, Jizhou Liu, and Guido Imbens. Major Revision at _Journal of Business and Economic Statistics_ (2023).
 
-We study augmented inverse propensity weighting (AIPW) estimators for causal effects under partial interference that accomodate heterogeneous interactions.
+We study augmented inverse propensity weighting (AIPW) estimators for causal effects under partial interference that accomodate heterogeneous interactions among units.
 
 ### 4. [Computationally Efficient Estimation of Large Probit Models](https://arxiv.org/abs/2407.09371)
 with Patrick Ding, Guido Imbens, and Yinyu Ye. Major Revision at _Journal of Econometrics_ (2024).
