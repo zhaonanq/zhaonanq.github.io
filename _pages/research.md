@@ -42,7 +42,7 @@ with Serina Chang\*, Frederic Koehler\*, Jure Leskovec, and Johan Ugander. _41st
 
 We propose the ``biproportional Poisson'' model, which provides statistical foundations for a widely used message passing algorithm to infer network traffic from marginal information. 
 
-### 6. [On Sinkhorn's Algorithm and Choice Modeling](https://drive.google.com/file/d/18pq78eIlByYdEl_ezIkA1AyF6wMpg6eg/view?usp=sharing)
+### 6. [On Sinkhorn's Algorithm and Choice Modeling](https://arxiv.org/abs/2310.00260)
 with Alfred Galichon, Wenzhi Gao, and Johan Ugander. Accepted at _Operations Research_ (2025).
 
 We connect matrix balancing and choice modeling, two topics that are almost 100 years old, and use the connections to obtain new insights on the convergence of Sinkhorn's algorithm.
