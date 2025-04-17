@@ -15,7 +15,7 @@ ___
 
 ## Econometrics & Statistics
 
-### 1. [Handling Sparse Non-negative Data in Finance](https://drive.google.com/file/d/1qJS-sRlTLggwkjiYLQr0ihGnYKch6sUU/view?usp=sharing)
+### 1. [Handling Sparse Non-negative Data in Finance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5219954)
 with Agostino Capponi. Working Paper (2025).
 
 Although Poisson pseudo maximum likelihood is commonly recommended for modeling data in finance and economics with non-negative dependent variables, there can be better estimators depending on the _sparsity_ and _heteroskedasticity_ of data. We propose a systematic framework that informs empirical researchers on such choices.
