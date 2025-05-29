@@ -35,25 +35,20 @@ with Ruoxuan Xiong\*, Jizhou Liu, and Guido Imbens. Major Revision at _Journal o
 
 We study augmented inverse propensity weighting (AIPW) estimators for causal effects under partial interference that accomodate heterogeneous interactions among units.
 
-## Operations Research, Machine Learning & AI
+## Operations Research & Machine Learning
 
-### 5. [Inferring Dynamic Networks from Marginals with Iterative Proportional Fitting](https://arxiv.org/abs/2402.18697)
-with Serina Chang\*, Frederic Koehler\*, Jure Leskovec, and Johan Ugander. _41st International Conference on Machine Learning (ICML)_  (2024).
-
-We propose the ``biproportional Poisson'' model, which provides statistical foundations for a widely used message passing algorithm to infer network traffic from marginal information. 
-
-### 6. [On Sinkhorn's Algorithm and Choice Modeling](https://arxiv.org/abs/2310.00260)
+### 5. [On Sinkhorn's Algorithm and Choice Modeling](https://arxiv.org/abs/2310.00260)
 with Alfred Galichon, Wenzhi Gao, and Johan Ugander. Accepted at _Operations Research_ (2025).
 
 We connect matrix balancing and choice modeling, two topics that are almost 100 years old, and use the connections to obtain new insights on the convergence of Sinkhorn's algorithm.
+
+### 6. [Inferring Dynamic Networks from Marginals with Iterative Proportional Fitting](https://arxiv.org/abs/2402.18697)
+with Serina Chang\*, Frederic Koehler\*, Jure Leskovec, and Johan Ugander. _41st International Conference on Machine Learning (ICML)_  (2024).
+
+We propose the ``biproportional Poisson'' model, which provides statistical foundations for a widely used message passing algorithm to infer network traffic from marginal information. 
 
 ### 7. [Optimal Diagonal Preconditioning](https://arxiv.org/abs/2209.00809)
 with Wenzhi Gao\*, Oliver Hinder, Yinyu Ye, and Zhengyuan Zhou. _Operations Research_ (2024).
 
 We provide SDP and interior point methods for finding the optimal diagonal preconditioners of a matrix.
-
-### 8. [A Unified Linear Speedup Analysis of Federated Averaging and Nesterov FedAvg](https://arxiv.org/abs/2007.05690)
-with Kaixiang Lin\*, Zhaojian Li, Jiayu Zhou, and Zhengyuan Zhou. _Journal of Artificial Intelligence Research 78_: 1143-1200 (2023).
-
-We establish the speedup of a class of popular federated learning algorithms in the number of participating local workers.
 
