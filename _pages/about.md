@@ -10,4 +10,4 @@ redirect_from:
 
 I am a postdoctoral research scientist at the [Data Science Institute at Columbia University](https://datascience.columbia.edu/) mentored by [Agostino Capponi](https://www.columbia.edu/~ac3827/) and [Simon Lee](https://econ.columbia.edu/econpeople/sokbae-simon-lee/).
 
-My research interests are at the intersection of operations research, econometrics, and machine learning. I leverage novel connections between these topics to develop robust and scalable data-driven solutions in business and management domains, such as digital platforms, supply chains, consumer choice, transportation networks, and finance. 
+My research interests are at the intersection of operations research, econometrics, and machine learning. I leverage novel connections between these topics to develop robust and scalable data-driven solutions in business and management domains, such as digital platforms, supply chains, consumer choice, transportation, electricity networks, and finance. 
