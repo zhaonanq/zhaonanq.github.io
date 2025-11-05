@@ -16,7 +16,7 @@ ___
 ## Operations Research & Machine Learning
 
 ### 1. [On Sinkhorn's Algorithm and Choice Modeling](https://arxiv.org/abs/2310.00260)
-with Alfred Galichon, Wenzhi Gao, and Johan Ugander. Operations Research_ (2025).
+with Alfred Galichon, Wenzhi Gao, and Johan Ugander. _Operations Research_ (2025).
 
 We connect matrix balancing and choice modeling, two topics that are almost 100 years old, and use the connections to obtain new insights on the convergence of Sinkhorn's algorithm.
 
