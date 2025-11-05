@@ -28,6 +28,8 @@ We provide SDP and interior point methods for finding the optimal diagonal preco
 ### 3. [Structured Lasso for convex nonparametric least squares: An application to Swedish electricity distribution networks](https://arxiv.org/abs/2409.01911)
 with Zhiqiang Liao Major Revision at _European Journal of Operational Research_  (2025).
 
+We propose a structured Lasso method for variable selection in convex nonparametric regression problems. 
+
 ### 4. [Inferring Dynamic Networks from Marginals with Iterative Proportional Fitting](https://arxiv.org/abs/2402.18697)
 with Serina Chang\*, Frederic Koehler\*, Jure Leskovec, and Johan Ugander. _41st International Conference on Machine Learning (ICML)_  (2024).
 
