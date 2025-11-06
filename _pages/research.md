@@ -26,7 +26,7 @@ with Wenzhi Gao\*, Oliver Hinder, Yinyu Ye, and Zhengyuan Zhou. _Operations Rese
 We provide SDP and interior point methods for finding the optimal diagonal preconditioners of a matrix.
 
 ### 3. [Structured Lasso for convex nonparametric least squares: An application to Swedish electricity distribution networks](https://arxiv.org/abs/2409.01911)
-with Zhiqiang Liao Major Revision at _European Journal of Operational Research_  (2025).
+with Zhiqiang Liao. Major Revision at _European Journal of Operational Research_  (2025).
 
 We propose a structured Lasso method for variable selection in convex nonparametric regression problems. 
 
