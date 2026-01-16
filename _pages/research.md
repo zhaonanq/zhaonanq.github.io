@@ -15,25 +15,30 @@ ___
 
 ## Econometrics & Statistics
 
-### 1. [Handling Sparse Non-negative Data in Finance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5219954)
+### 1. [Triply Robust Panel Estimators](https://arxiv.org/abs/2508.21536)
+with Susan Athey, Guido Imbens, and Davide Viviano. Accepted at _Journal of Applied Econometrics_ (2026).
+
+We study augmented inverse propensity weighting (AIPW) estimators for causal effects under partial interference that accomodate heterogeneous interactions among units.
+
+### 2. [Semiparametric Estimation of Treatment Effects in Observational Studies with Heterogeneous Partial Interference](https://arxiv.org/abs/2107.12420)
+with Ruoxuan Xiong\*, Jizhou Liu, and Guido Imbens. Accepted at _Journal of Business and Economic Statistics_ (2026).
+
+We study augmented inverse propensity weighting (AIPW) estimators for causal effects under partial interference that accomodate heterogeneous interactions among units.
+
+### 3. [Handling Sparse Non-negative Data in Finance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5219954)
 with Agostino Capponi. Under Review (2025).
 
 Although Poisson pseudo maximum likelihood is commonly recommended for modeling data in finance and economics with non-negative dependent variables, there can be better estimators depending on the _sparsity_ and _heteroskedasticity_ of data. We propose a systematic framework that informs empirical researchers on such choices.
 
-### 2. [Distributionally Robust Instrumental Variables Estimation](https://arxiv.org/abs/2410.15634)
+### 4. [Distributionally Robust Instrumental Variables Estimation](https://arxiv.org/abs/2410.15634)
 with Yongchan Kwon. Under Review (2024).
 
 We propose a distributionally robust version of the calssical IV estimation method for inferring causal effects, motivated by common concerns in practice such as instrument validity.
 
-### 3. [Computationally Efficient Estimation of Large Probit Models](https://arxiv.org/abs/2407.09371)
+### 5. [Computationally Efficient Estimation of Large Probit Models](https://arxiv.org/abs/2407.09371)
 with Patrick Ding, Guido Imbens, and Yinyu Ye. Major Revision at _Journal of Econometrics_ (2024).
 
 We leverage methods in approximate Bayesian inference and non-linear optimization to significantly accelerate existing EM algorithms for probit models, enabling the analysis of consumer choice data with a large number of alternatives.
-
-### 4. [Semiparametric Estimation of Treatment Effects in Observational Studies with Heterogeneous Partial Interference](https://arxiv.org/abs/2107.12420)
-with Ruoxuan Xiong\*, Jizhou Liu, and Guido Imbens. Major Revision at _Journal of Business and Economic Statistics_ (2023).
-
-We study augmented inverse propensity weighting (AIPW) estimators for causal effects under partial interference that accomodate heterogeneous interactions among units.
 
 ## Operations Research & Machine Learning
 
