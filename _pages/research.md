@@ -42,22 +42,27 @@ We leverage methods in approximate Bayesian inference and non-linear optimizatio
 
 ## Operations Research & Machine Learning
 
-### 1. [On Sinkhorn's Algorithm and Choice Modeling](https://arxiv.org/abs/2310.00260)
+### 1. [Scalable Approximate Optimal Diagonal Preconditioning](https://arxiv.org/abs/2209.00809)
+with Wenzhi Gao, Madeleine Udelle, and Yinyu Ye. _Computational Optimization and Applications_ (2026).
+
+We propose scalable method2 to compute approximate optimal diagonal preconditioners applicable to sparse matrices of size up to 10^7.
+
+### 2. [On Sinkhorn's Algorithm and Choice Modeling](https://arxiv.org/abs/2310.00260)
 with Alfred Galichon, Wenzhi Gao, and Johan Ugander. _Operations Research_ (2025).
 
 We connect matrix balancing and choice modeling, two topics that are almost 100 years old, and use the connections to obtain new insights on the convergence of Sinkhorn's algorithm.
 
-### 2. [Optimal Diagonal Preconditioning](https://arxiv.org/abs/2209.00809)
+### 3. [Optimal Diagonal Preconditioning](https://arxiv.org/abs/2209.00809)
 with Wenzhi Gao\*, Oliver Hinder, Yinyu Ye, and Zhengyuan Zhou. _Operations Research_ (2025).
 
 We provide SDP and interior point methods for finding the optimal diagonal preconditioners of a matrix.
 
-### 3. [Structured Lasso for convex nonparametric least squares: An application to Swedish electricity distribution networks](https://arxiv.org/abs/2409.01911)
+### 4. [Structured Lasso for convex nonparametric least squares: An application to Swedish electricity distribution networks](https://arxiv.org/abs/2409.01911)
 with Zhiqiang Liao. Major Revision at _European Journal of Operational Research_  (2025).
 
 We propose a structured Lasso method for variable selection in convex nonparametric regression problems. 
 
-### 4. [Inferring Dynamic Networks from Marginals with Iterative Proportional Fitting](https://arxiv.org/abs/2402.18697)
+### 5. [Inferring Dynamic Networks from Marginals with Iterative Proportional Fitting](https://arxiv.org/abs/2402.18697)
 with Serina Chang\*, Frederic Koehler\*, Jure Leskovec, and Johan Ugander. _41st International Conference on Machine Learning (ICML)_  (2024).
 
 We propose the ``biproportional Poisson'' model, which provides statistical foundations for a widely used message passing algorithm to infer network traffic from marginal information. 
