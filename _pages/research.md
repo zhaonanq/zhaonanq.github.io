@@ -43,9 +43,9 @@ We leverage methods in approximate Bayesian inference and non-linear optimizatio
 ## Operations Research & Machine Learning
 
 ### 1. [Scalable Approximate Optimal Diagonal Preconditioning](https://arxiv.org/abs/2209.00809)
-with Wenzhi Gao, Madeleine Udelle, and Yinyu Ye. _Computational Optimization and Applications_ (2026).
+with Wenzhi Gao, Madeleine Udelle, and Yinyu Ye. Accepted at _Computational Optimization and Applications_ (2026).
 
-We propose scalable method2 to compute approximate optimal diagonal preconditioners applicable to sparse matrices of size up to 10^7.
+We propose scalable methods to compute approximate optimal diagonal preconditioners applicable to sparse matrices of size up to 10^7.
 
 ### 2. [On Sinkhorn's Algorithm and Choice Modeling](https://arxiv.org/abs/2310.00260)
 with Alfred Galichon, Wenzhi Gao, and Johan Ugander. _Operations Research_ (2025).
