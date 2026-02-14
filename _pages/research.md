@@ -21,7 +21,7 @@ with Susan Athey, Guido Imbens, and Davide Viviano. _Journal of Applied Economet
 We propose an estimator of causal effects in panel data that combines weighted two-way fixed effect regression with a low-rank factor, with weights based on similarity measures between units and between time periods, instead of regression-based weights.
 
 ### 2. [Semiparametric Estimation of Treatment Effects in Observational Studies with Heterogeneous Partial Interference](https://arxiv.org/abs/2107.12420)
-with Ruoxuan Xiong\*, Jizhou Liu, and Guido Imbens. _Journal of Business and Economic Statistics_ (2026).
+with Ruoxuan Xiong\*, Jizhou Liu\*, and Guido Imbens. _Journal of Business and Economic Statistics_ (2026).
 
 We study augmented inverse propensity weighting (AIPW) estimators for causal effects under partial interference that accomodate heterogeneous interactions among units.
 
