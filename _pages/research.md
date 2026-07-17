@@ -15,7 +15,7 @@ ___
 
 ## Consumer Choice and Digital Marketplaces
 
-### 1. [Learning Contextual Effects in Ordered Choice Sets: An Application to Online Marketplaces](https://arxiv.org/abs/2407.09371)
+### 1. [Learning Contextual Effects in Ordered Choice Sets: An Application to Online Marketplaces](https://drive.google.com/file/d/1BI8QkZHXJrQWwBPE4DFvXN8F5iorLqQK/view?usp=drive_link)
 
 with Patrick Ding. Working Paper (2026).
 
