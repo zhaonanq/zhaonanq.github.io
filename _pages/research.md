@@ -53,7 +53,7 @@ with Yongchan Kwon. Under Review (2024).
 
 We propose a distributionally robust version of the classical IV estimation method for inferring causal effects, motivated by common concerns in practice such as instrument validity and generalization across heterogeneous markets.
 
-## Optimization and Machine Learning
+## Operations Research and Machine Learning
 
 ### 1. [Optimal Diagonal Preconditioning](https://arxiv.org/abs/2209.00809)
 
