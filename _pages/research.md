@@ -29,7 +29,7 @@ We connect matrix balancing and choice modeling, two topics that are almost 100 
 
 ### 3. [Handling Sparse Non-negative Data in Business and Economics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5219954)
 
-with Agostino Capponi. *EC '26: Proceedings of the 27th ACM Conference on Economics and Computation* (2026).
+with Agostino Capponi. *Under Review* (2026).
 
 Although Poisson pseudo maximum likelihood is commonly recommended for modeling data with non-negative dependent variables, such as sales and expenditure, there can be better estimators depending on the *sparsity* and *heteroskedasticity* of data. We propose a systematic framework that informs empirical researchers on such choices.
 
