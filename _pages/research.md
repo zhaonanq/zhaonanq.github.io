@@ -37,7 +37,7 @@ Although Poisson pseudo maximum likelihood is commonly recommended for modeling 
 
 ### 1. [Triply Robust Panel Estimators](https://arxiv.org/abs/2508.21536)
 
-with Susan Athey, Guido Imbens, and Davide Viviano. *Journal of Applied Econometrics* (2026). [Python Package]
+with Susan Athey, Guido Imbens, and Davide Viviano. *Journal of Applied Econometrics* (2026). [Python Package](https://pypi.org/project/trop/)
 
 We propose an estimator of causal effects in panel data that combines weighted two-way fixed effect regression with a low-rank factor, with weights based on similarity measures between units and between time periods, instead of regression-based weights.
 
